@@ -1,4 +1,4 @@
-# telegram-in-popup-chrome
+# chrome-telegram (earlier telegram-in-popup-chrome)
 
 This chrome-extenshon opens **www.telegram.org** in ~~Popup page~~ Side Panel
 
